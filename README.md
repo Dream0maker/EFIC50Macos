@@ -1,7 +1,12 @@
 This is a OPENCORE EFI Config made from scratch For Toshiba C50 A546 
 
 **What's Working:**<br>
-*Everything Except the list below
+IGPU<br>
+WIFI<br>
+Brightness<br>
+Sound **Using VoodooHDA But You Can use AppleHDA if You want**<br>
+Trackpad & keyboard<br>
+etc..
 
 **What's not working**<br>
 Nvidia GPU (gt710m)<br>
